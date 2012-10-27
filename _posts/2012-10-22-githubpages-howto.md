@@ -2,7 +2,7 @@
 
 Gentoo-zh Blog posts 使用的是 github 提供的静态页面保存功能。
 
-首先 git clone git@github.com:microcai/gentoo-zh.git gentoo-zh-pages && gentoo-zh-pages
+首先 git clone git@github.com:microcai/gentoo-zh.git gentoo-zh-pages && cd gentoo-zh-pages
 
 然后 git checkout -b gh-pages origin/gh-pages
 
